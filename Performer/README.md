@@ -1,7 +1,7 @@
 # Performer Eurorack Sequencer
 Modified for PJ398/366 Jacks
 
-[Revised BOM][BOM].
+[Revised BOM][BOM]. <- Please Read, important changes
 
 [Orginal Hardware][westlicht]
 
